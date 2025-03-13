@@ -1,0 +1,10 @@
+			Exercice 3:
+  	 Reponses aux question:
+
+ 1.**En python,les variables doivent être déclarées explicitement avec un type avant d'être
+    utilisées. (Faux)
+ 2.** Une fonction en Python peut retourner plusieurs valeurs. (Vrai)
+ 3.** En programmation orientée objet,l'héritage permet à une classe d'acquérir les propriétés
+    et méthodes d'une autre classe. (Vrai)
+ 4.** En python,on utilise le mot-clé private pour définir des attributs privés dans une classe. (Faux)
+ 5.** Le module 'csv' en python est utilisé pour manipuler des données au format JSON. (Faux)
